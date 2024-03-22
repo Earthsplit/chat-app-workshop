@@ -1,0 +1,17 @@
+.persons {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.chat {
+	display: flex;
+	flex-direction: column;
+}
+
+.messages {
+	height: 100vh;
+}
+
+.header {
+}

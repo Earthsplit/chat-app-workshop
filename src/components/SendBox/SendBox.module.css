@@ -1,0 +1,16 @@
+.sendInput {
+	padding: 1rem;
+	flex: 1;
+}
+
+.sendButton {
+	padding: 1rem;
+}
+
+.sendBox {
+	display: flex;
+	gap: 0.5rem;
+	width: 100%;
+	position: fixed;
+	bottom: 10px;
+}
